@@ -1,0 +1,6 @@
+Flask == 1.1.2
+gunicorn == 20.0.4
+line-bot-sdk == 1.19.0
+requests == 2.24.0
+pyquery == 1.4.3
+APScheduler == 3.7.0
